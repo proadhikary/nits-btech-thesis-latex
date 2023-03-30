@@ -1,0 +1,12 @@
+\contentsline {chapter}{Certificate}{iii}{dummy.3}
+\contentsline {chapter}{Abstract}{v}{dummy.4}
+\contentsline {chapter}{List of Figures}{ix}{dummy.6}
+\contentsline {chapter}{List of Tables}{xi}{dummy.8}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.11}
+\contentsline {subsection}{\numberline {1.0.1}Motivation}{1}{subsection.13}
+\contentsline {subsection}{\numberline {1.0.2}Objective}{2}{subsection.14}
+\contentsline {chapter}{\numberline {2}Literature survey}{3}{chapter.18}
+\contentsline {chapter}{\numberline {3}Proposed System}{5}{chapter.20}
+\contentsline {chapter}{\numberline {4}Experimental Results and Discussions}{7}{chapter.22}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{9}{chapter.23}
+\contentsline {chapter}{References}{11}{chapter.23}

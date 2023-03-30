@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+A level-1 auxiliary file: Frontmatter/TitleAuthor.aux
+A level-1 auxiliary file: Frontmatter/Certificate.aux
+A level-1 auxiliary file: Frontmatter/Abstract.aux
+A level-1 auxiliary file: Chapter1/Chapter1.aux
+A level-1 auxiliary file: Chapter2/Chapter2.aux
+A level-1 auxiliary file: Chapter3/Chapter3.aux
+A level-1 auxiliary file: Chapter4/Chapter4.aux
+A level-1 auxiliary file: Chapter7/Chapter7.aux
+The style file: ieeetr.bst
+Database file #1: mybibfile.bib
+Name 1 in "K. B. Oldham, and J. Spanier" has a comma at the end for entry Oldham:74
+while executing---line 969 of file ieeetr.bst
+(There was 1 error message)
